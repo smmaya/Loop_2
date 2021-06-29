@@ -1,1 +1,1 @@
-# Loop_2
+Loop 2 - Wypisz tabliczkę mnożenia o podanym zakresie
